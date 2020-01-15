@@ -20,3 +20,8 @@ The detection result of Toxoplasma by our GFS-ExtremeNet
 The detection result of Babesia by our GFS-ExtremeNet
 
 ![image](https://github.com/jiangdat/GFS-ExtremeNet/blob/master/results/Babesia.png)
+
+
+The image samples in the project can be downloaded in
+
+![Download](https://data.mendeley.com/datasets/m3jxgb54c9/draft?a=4159c0fe-f38c-4be7-b0cd-b51b3834b180)
