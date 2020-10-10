@@ -25,3 +25,5 @@ The detection result of Babesia by our GFS-ExtremeNet
 The image samples in the project can be downloaded in
 
 [Download](https://data.mendeley.com/datasets/m3jxgb54c9/draft?a=4159c0fe-f38c-4be7-b0cd-b51b3834b180)
+
+For other information, please contact the author, ee.jianghao@outlook.com
